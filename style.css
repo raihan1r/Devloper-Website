@@ -15,11 +15,13 @@ section {
 }
 
 .half-width {
-    50%
+    width: 50%;
+
 }
 
-.half-width {
+.half-width-img {
     width: 100%;
+
 }
 
 .link-button {
@@ -27,4 +29,6 @@ section {
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
+    color: aliceblue;
+    font-weight: 700;
 }
